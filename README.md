@@ -9,14 +9,13 @@ Whether it's dissecting a tricky sliding window problem or logging key algorithm
 ## 🗺️ The Roadmap & Sheet Tracker
 
 | Milestone | Topics Covered | Revision Notes (AppFlowy) | Status |
-| --- | --- | --- | --- |
-| **01. Basics & Logic** | Patterns, STL, Basic Math, Recursion | 📄 Linked | 🔄 In Progress |
-| **02. Sorting Techniques** | Bubble, Selection, Insertion, Merge, Quick | ⏳ Pending | ⏳ Upcoming |
-| **03. Core Data Structures** | Arrays (Easy $\rightarrow$ Hard), Linked Lists | ⏳ Pending | ⏳ Upcoming |
+| :--- | :--- | :--- | :--- |
+| **01. Basics & Logic** | Patterns, STL, Basic Math, Recursion, Hashing | 📄 [Linked](https://github.com/AuditorDevansh/A_to_Z_DSA/tree/main/Revision_notes) | ✅ Done |
+| **02. Sorting Techniques** | Bubble, Selection, Insertion, Merge, Quick | 📄 [Linked](https://github.com/AuditorDevansh/A_to_Z_DSA/tree/main/Revision_notes) | ✅ Done |
+| **03. Core Data Structures** | Arrays (Easy → Hard), Linked Lists | ⏳ Pending | ⏳ Upcoming |
 | **04. Mid-Level Mastery** | Binary Search, Stacks & Queues, Strings | ⏳ Pending | ⏳ Upcoming |
 | **05. Advanced Structures** | Trees, Graphs, Heaps, Tries | ⏳ Pending | ⏳ Upcoming |
 | **06. The Ultimate Boss** | Dynamic Programming & Bit Manipulation | ⏳ Pending | ⏳ Upcoming |
-
 ---
 
 ## 📁 Repository Tour
